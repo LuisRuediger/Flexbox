@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  /* flex-direction: row; */
+  flex-direction: row;
+  flex-wrap: wrap;
+  /* background-color: gainsboro;
+  height: 100px;
+  width: 200px;
+  color: black; */
+}
+.div1 {
+  background-color: rgb(9, 148, 102);
+}
+.div2 {
+  background-color: bisque;
+}
+.div3 {
+  background-color: rgb(186, 240, 240);
+}
+.quadrado {
+  /* height: 300px; */
+  /* width: 200px; */
+}
